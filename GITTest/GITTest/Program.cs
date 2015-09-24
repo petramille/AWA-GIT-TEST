@@ -18,6 +18,7 @@ namespace GITTest
             Console.WriteLine("OCh så lite till");
             Console.WriteLine("Ett försök till");
             Console.WriteLine("Överlever den här mergen?");
+            Console.WriteLine("Det här är en rad i branchen");
         }
 
     static void TestMethod()
