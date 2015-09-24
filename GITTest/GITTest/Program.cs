@@ -23,7 +23,7 @@ namespace GITTest
 
     static void TestMethod()
         {
-            Console.WriteLine("Ny metod");
+            Console.WriteLine("Ny utbytt rad i den nya metoden");
         }
     }
 }
