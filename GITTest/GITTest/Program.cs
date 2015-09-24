@@ -15,6 +15,7 @@ namespace GITTest
             Console.WriteLine("Här skriver jag lite kod");
             Console.WriteLine("OCh så lite till");
             Console.WriteLine("Ett försök till");
+            Console.WriteLine("Överlever den här mergen?");
         }
     }
 }
