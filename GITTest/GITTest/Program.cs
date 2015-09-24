@@ -28,7 +28,7 @@ namespace GITTest
 
         static void NewMethod()
         {
-
+            Console.WriteLine("Nu har jag bytt till master");
         }
     }
 }
