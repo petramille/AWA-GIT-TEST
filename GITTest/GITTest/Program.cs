@@ -18,5 +18,10 @@ namespace GITTest
             Console.WriteLine("OCh så lite till");
             Console.WriteLine("Ett försök till");
         }
+
+    static void TestMethod()
+        {
+            Console.WriteLine("Ny metod");
+        }
     }
 }
