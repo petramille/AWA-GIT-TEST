@@ -10,6 +10,8 @@ namespace GITTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Skriv ett namn");
+            string name = Console.ReadLine();
             Console.WriteLine("Hej Petra!");
             Console.WriteLine("Nu skrev jag en rad till!");
             Console.WriteLine("Här skriver jag lite kod");
