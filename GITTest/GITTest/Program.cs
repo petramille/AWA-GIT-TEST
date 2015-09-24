@@ -11,6 +11,7 @@ namespace GITTest
         static void Main(string[] args)
         {
             Console.WriteLine("Här skriver jag lite kod");
+            Console.WriteLine("OCh så lite till");
         }
     }
 }
