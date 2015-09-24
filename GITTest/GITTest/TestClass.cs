@@ -9,5 +9,10 @@ namespace GITTest
     class TestClass
     {
         public string ClassMember { get; set; }
+
+        public TestClass(string classMember)
+        {
+            ClassMember = classMember;
+        }
     }
 }
