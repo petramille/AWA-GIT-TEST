@@ -18,12 +18,13 @@ namespace GITTest
             Console.WriteLine("OCh så lite till");
             Console.WriteLine("Ett försök till");
             Console.WriteLine("Överlever den här mergen?");
-            Console.WriteLine("Det här är en rad i branchen");
+            //Jag tog bort en rad här
         }
 
     static void TestMethod()
         {
             Console.WriteLine("Ny utbytt rad i den nya metoden");
+            //Det här är en rad i den nya branchen
         }
     }
 }
