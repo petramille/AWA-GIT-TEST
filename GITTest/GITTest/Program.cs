@@ -18,6 +18,7 @@ namespace GITTest
             Console.WriteLine("OCh så lite till");
             Console.WriteLine("Ett försök till");
             Console.WriteLine("Överlever den här mergen?");
+            //Jag la till en rad kommentar här nu i testMichelle
             //Jag tog bort en rad här
         }
 
